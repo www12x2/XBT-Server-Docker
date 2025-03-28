@@ -1,5 +1,7 @@
 # XBT-Server-Docker
 
+[DockerHub](https://hub.docker.com/r/www12x2/xbt-server-docker)
+
 本项目为：[EnderWolf006/XBT](https://github.com/EnderWolf006/XBT) 项目的server服务端docker自动构建项目
 
 # 如何使用
