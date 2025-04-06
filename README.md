@@ -6,7 +6,7 @@
 
 # 如何使用
 - 需映射端口：`3030`
-- 需映射存储目录：`\app\keys` （具体需存放的文件见 [EnderWolf006/XBT](https://github.com/EnderWolf006/XBT) 项目README）
+- 需映射存储目录：`/app/keys` （具体需存放的文件见 [EnderWolf006/XBT](https://github.com/EnderWolf006/XBT) 项目README）
 
 ### 获取日志
 `docker logs 容器名`
